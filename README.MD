@@ -1,5 +1,5 @@
 # Sobre
- Esse repositório é sobre o video da Front Beginners, que traz o uso do styled components usando global style, theme e componentes estilizados.
+ Esse repositório é sobre o video da Front Beginners, que traz o uso do styled components usando global style, theme, componentes estilizados e propriedades.
 
 ## 🔗 Links:
 
